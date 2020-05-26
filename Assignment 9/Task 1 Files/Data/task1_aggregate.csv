@@ -1,0 +1,12 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Browse/jpetstore/actions/Catalog.action-1,19403,66,54,63,66,814,8,1059,0.005%,20.95092,91.04,9.62
+Browse/jpetstore/actions/Catalog.action-2,19402,70,55,63,69,836,47,1091,0.005%,20.95208,99.09,10.28
+Browse/jpetstore/actions/Catalog.action-3,19401,68,54,63,67,820,17,1084,0.010%,20.95211,85.16,10.14
+Login/jpetstore/actions/Account.action-1,14553,67,53,62,66,821,11,1056,0.007%,15.71575,68.23,5.88
+Login/jpetstore/actions/Account.action-2,14552,133,108,126,175,949,46,1119,0.027%,15.71670,90.81,21.16
+Login/jpetstore/actions/Catalog.action-3,14548,66,53,62,65,812,47,1056,0.000%,15.71601,84.21,6.94
+Purchasing/jpetstore/actions/Cart.action-1,4850,74,60,69,74,837,48,1051,0.000%,5.23937,26.50,2.58
+Purchasing/jpetstore/actions/Order.action-2,4850,69,54,63,77,832,31,1049,0.021%,5.23956,23.40,2.48
+Purchasing/jpetstore/actions/Order.action-3,4849,68,54,63,97,819,47,1013,0.000%,5.23987,28.82,2.93
+Purchasing/jpetstore/actions/Order.action-4,4849,67,54,63,67,822,47,1016,0.000%,5.23985,25.17,5.72
+TOTAL,121257,76,58,104,120,841,8,1119,0.008%,130.93040,622.28,77.70

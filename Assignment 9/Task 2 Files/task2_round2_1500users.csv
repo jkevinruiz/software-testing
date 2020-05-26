@@ -1,0 +1,5 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Browse/jpetstore/actions/Catalog.action-1,1500,510,436,981,1108,1318,97,1447,0.000%,514.75635,2160.07,236.77
+Browse/jpetstore/actions/Catalog.action-2,1500,518,510,944,1085,1244,48,1348,0.000%,463.39203,2080.42,227.26
+Browse/jpetstore/actions/Catalog.action-3,1500,462,451,689,912,1177,48,1255,0.000%,455.51169,1850.20,220.55
+TOTAL,4500,497,476,909,1076,1254,48,1447,0.000%,1305.86187,5548.89,624.45
